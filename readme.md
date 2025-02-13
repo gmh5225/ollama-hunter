@@ -8,7 +8,7 @@ Some tools to scan and interact with Ollama and llama.cpp servers from Shodan.
 - Search for public llama.cpp servers using Shodan API
 
 
-## Examples
+## Output
 ```json
 {
         "ip_str": "34.xxx.xxx.96",
