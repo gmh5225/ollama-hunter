@@ -1,9 +1,11 @@
-import requests
 import json
 import sys
+from typing import Dict, List, Union, Any
+
+import requests
 
 
-def list_ollama_models(ip, port=11434):
+def list_ollama_models(ip: str, port: int = 11434) -> Dict[str, Any]:
     """
     List all models on the specified Ollama server
 
@@ -12,39 +14,30 @@ def list_ollama_models(ip, port=11434):
         port: Port number, default 11434
 
     Returns:
-        Returns model list if successful, error message if failed
+        Dict containing success status and either models list or error message
     """
     try:
-        # 1. Test server connection
+        # Test server connection
         api_url = f"http://{ip}:{port}/api/tags"
         response = requests.get(api_url, timeout=5)
         response.raise_for_status()
 
-        # 2. Parse response
+        # Parse response
         models_data = response.json()
-        if isinstance(models_data, dict):
-            if "models" in models_data:  # New API format
-                models = [
-                    {
-                        "name": model["name"],
-                        "size": model.get("size", "Unknown"),
-                        "digest": model.get("digest", "Unknown"),
-                        "details": model,
-                    }
-                    for model in models_data["models"]
-                ]
-                return {"success": True, "models": models, "api_version": "new"}
-            elif "tags" in models_data:  # Old API format
-                models = [
-                    {
-                        "name": tag["name"],
-                        "size": tag.get("size", "Unknown"),
-                        "digest": tag.get("digest", "Unknown"),
-                        "details": tag,
-                    }
-                    for tag in models_data["tags"]
-                ]
-                return {"success": True, "models": models, "api_version": "old"}
+        if not isinstance(models_data, dict):
+            return {
+                "success": False,
+                "error": "Unknown API response format",
+                "raw_response": models_data,
+            }
+
+        # Process model data based on API version
+        if "models" in models_data:  # New API format
+            models = _process_models(models_data["models"], key="models")
+            return {"success": True, "models": models, "api_version": "new"}
+        elif "tags" in models_data:  # Old API format
+            models = _process_models(models_data["tags"], key="tags")
+            return {"success": True, "models": models, "api_version": "old"}
 
         return {
             "success": False,
@@ -60,8 +53,35 @@ def list_ollama_models(ip, port=11434):
         return {"success": False, "error": f"An error occurred: {str(e)}"}
 
 
-def print_models(result):
-    """Pretty print model information"""
+def _process_models(data: List[Dict[str, Any]], key: str) -> List[Dict[str, Any]]:
+    """
+    Process model data from API response
+
+    Args:
+        data: List of model/tag data from API
+        key: Key to use for accessing data ('models' or 'tags')
+
+    Returns:
+        List of processed model information
+    """
+    return [
+        {
+            "name": item["name"],
+            "size": item.get("size", "Unknown"),
+            "digest": item.get("digest", "Unknown"),
+            "details": item,
+        }
+        for item in data
+    ]
+
+
+def print_models(result: Dict[str, Any]) -> None:
+    """
+    Pretty print model information
+
+    Args:
+        result: Dictionary containing model information or error
+    """
     if result["success"]:
         print(f"\nFound {len(result['models'])} models:")
         print("-" * 50)
@@ -74,7 +94,7 @@ def print_models(result):
         print(f"\nError: {result['error']}")
 
 
-def main():
+def main() -> None:
     """Main function"""
     if len(sys.argv) < 2:
         print("Usage: python list_models.py <IP_ADDRESS> [PORT]")
