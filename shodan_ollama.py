@@ -3,14 +3,35 @@ import requests
 import shodan
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import Dict, List, Set, Tuple, Any, Optional
 
 import dotenv
 import os
 
+# Load environment variables
 dotenv.load_dotenv()
 
-# Shodan API Key
+# Constants
 SHODAN_API_KEY = os.getenv("SHODAN_API_KEY")
+if not SHODAN_API_KEY:
+    raise ValueError("SHODAN_API_KEY environment variable is not set")
+
+# Search queries for Ollama servers
+SEARCH_QUERIES = [
+    'product:"Ollama"',  # Generic Ollama product identifier
+    "port:11434",  # Standard port
+    "ollama",  # Generic keyword
+    'http.title:"Ollama"',
+    '"Ollama API" port:11434',  # API on standard port
+    '"Ollama API"',  # API on other ports
+    "http.favicon.hash:-1959422854",
+    'http.html:"ollama"',
+    'http.component:"Ollama"',  # Component identifier
+    '"Content-Type: text/plain" port:11434',  # Ollama API response header
+    'port:11434 "HTTP/1.1 200 OK"',  # Success response on standard port
+    "http.status:200 port:11434",  # Alternative way to find success responses
+    'http.response.headers.content-type:"text/plain" port:11434',  # More precise header matching
+]
 
 
 def test_ollama_server(ip, port=11434, timeout=5):
@@ -37,7 +58,7 @@ def save_to_json(data, filename="shodan_ollama.json"):
         json.dump(json.loads(data), f, ensure_ascii=False, indent=4)
 
 
-def get_ollama_servers_with_models(api_key, quiet=True):
+def get_ollama_servers_with_models(api_key: str, quiet: bool = True) -> str:
     """
     Use Shodan API to find servers running Ollama and try to get the model list from each server.
 
@@ -51,25 +72,8 @@ def get_ollama_servers_with_models(api_key, quiet=True):
     try:
         api = shodan.Shodan(api_key)
 
-        # Multiple search queries
-        queries = [
-            'product:"Ollama"',  # Generic Ollama product identifier
-            "port:11434",  # Standard port
-            "ollama",  # Generic keyword
-            'http.title:"Ollama"',
-            '"Ollama API" port:11434',  # API on standard port
-            '"Ollama API"',  # API on other ports
-            "http.favicon.hash:-1959422854",
-            'http.html:"ollama"',
-            'http.component:"Ollama"',  # Component identifier
-            '"Content-Type: text/plain" port:11434',  # Ollama API response header
-            'port:11434 "HTTP/1.1 200 OK"',  # Success response on standard port
-            "http.status:200 port:11434",  # Alternative way to find success responses
-            'http.response.headers.content-type:"text/plain" port:11434',  # More precise header matching
-        ]
-
         all_results = set()
-        for query in queries:
+        for query in SEARCH_QUERIES:
             if not quiet:
                 print(f"\nSearching: {query}")
             try:
@@ -161,7 +165,7 @@ def get_ollama_servers_with_models(api_key, quiet=True):
                     "error": "No accessible Ollama servers found",
                     "debug_info": {
                         "total_unique_ips": len(all_results),
-                        "queries": queries,
+                        "queries": SEARCH_QUERIES,
                     },
                 },
                 indent=4,
@@ -173,20 +177,14 @@ def get_ollama_servers_with_models(api_key, quiet=True):
         return json.dumps({"error": f"An error occurred: {str(e)}"}, indent=4)
 
 
-def main():
+def main() -> None:
     """Main function"""
-    if not os.getenv("SHODAN_API_KEY"):
-        print("Please set the SHODAN_API_KEY environment variable first")
-        return
-
-    # Generate filename with timestamp
+    # Remove the redundant check since we check at import time
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     filename = f"shodan_ollama_{timestamp}.json"
 
     # Get and save data
-    json_output = get_ollama_servers_with_models(
-        os.getenv("SHODAN_API_KEY"), quiet=False
-    )
+    json_output = get_ollama_servers_with_models(SHODAN_API_KEY, quiet=False)
     save_to_json(json_output, filename)
     print(f"\nResults saved to: {filename}")
 
