@@ -1,0 +1,2399 @@
+[
+    {
+        "ip_str": "34.143.214.96",
+        "port": 11434,
+        "location": {
+            "country_name": "Singapore",
+            "city_name": "Unknown"
+        },
+        "org": "Google LLC",
+        "hostnames": [
+            "96.214.143.34.bc.googleusercontent.com"
+        ],
+        "models": [
+            "smollm2:135m",
+            "llama2:latest",
+            "qwen2:latest",
+            "qwen2:7b",
+            "mxbai-embed-large:latest",
+            "gemma2:latest",
+            "llama3.1:latest"
+        ]
+    },
+    {
+        "ip_str": "150.230.141.10",
+        "port": 5001,
+        "location": {
+            "country_name": "India",
+            "city_name": "Unknown"
+        },
+        "org": "Oracle Corporation",
+        "hostnames": [],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:32b",
+            "qwen2.5-coder:32b",
+            "gemma2:27b",
+            "llama2:latest",
+            "tinyllama:latest",
+            "llama3.1:8b-instruct-q4_K_M"
+        ]
+    },
+    {
+        "ip_str": "49.233.132.43",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "206.12.91.60",
+        "port": 80,
+        "location": {
+            "country_name": "Canada",
+            "city_name": "Unknown"
+        },
+        "org": "University of Victoria",
+        "hostnames": [
+            "206-12-91-60.cloud.computecanada.ca"
+        ],
+        "models": [
+            "deepseek-r1:8b",
+            "alphasense:latest"
+        ]
+    },
+    {
+        "ip_str": "120.41.184.237",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET FUJIAN PROVINCE NETWORK",
+        "hostnames": [
+            "237.184.41.120.broad.xm.fj.dynamic.163data.com.cn"
+        ],
+        "models": [
+            "deepseek-r1:14b"
+        ]
+    },
+    {
+        "ip_str": "61.152.96.242",
+        "port": 50000,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Shanghai province network",
+        "hostnames": [
+            "q.fobshanghai.com"
+        ],
+        "models": [
+            "deepseek-r1:14b",
+            "deepseek-r1:1.5b",
+            "deepseek-r1:8b"
+        ]
+    },
+    {
+        "ip_str": "219.154.190.58",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Unicom IP network",
+        "hostnames": [
+            "hn.kd.jz.adsl"
+        ],
+        "models": [
+            "deepseek-r1:8b",
+            "nomic-embed-text:latest"
+        ]
+    },
+    {
+        "ip_str": "120.31.66.148",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Foshan Tongyuan Intelligent Technology Co., Ltd",
+        "hostnames": [
+            "wiz.top"
+        ],
+        "models": [
+            "smollm2:135m",
+            "qwen2.5-coder:32b",
+            "llama3.2-vision:latest",
+            "qwen2.5-coder:7b",
+            "qwen2.5-coder:latest",
+            "qwen2.5-coder:14b",
+            "llama3.2:latest",
+            "qwen2.5:32b",
+            "qwen2.5:latest",
+            "nomic-embed-text:latest"
+        ]
+    },
+    {
+        "ip_str": "47.112.112.163",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Aliyun Computing Co., LTD",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "113.68.179.40",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Guangdong province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b",
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "51.210.112.67",
+        "port": 3012,
+        "location": {
+            "country_name": "France",
+            "city_name": "Unknown"
+        },
+        "org": "OVH SAS",
+        "hostnames": [
+            "ns3174902.ip-51-210-112.eu",
+            "ahorra.jumo.com.es"
+        ],
+        "models": [
+            "deepseek-r1:8b",
+            "llama3:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 45622,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "91.237.249.65",
+        "port": 11434,
+        "location": {
+            "country_name": "Russian Federation",
+            "city_name": "Unknown"
+        },
+        "org": "LLC Server v arendy",
+        "hostnames": [],
+        "models": [
+            "minicpm-v:latest",
+            "huihui_ai/qwen2.5-1m-abliterated:14b",
+            "llama3.2-vision:latest",
+            "evilfreelancer/o1_gigachat:20b-q4_0",
+            "MFDoom/deepseek-r1-tool-calling:14b",
+            "deepseek-r1:8b",
+            "deepseek-r1:14b",
+            "bge-large:latest",
+            "qwen2.5:1.5b",
+            "qwen2.5:0.5b",
+            "rscr/ruadapt_qwen2.5_32b:Q2_K_M",
+            "rscr/ruadapt_qwen2.5_32b:Q4_K_M",
+            "smollm2:135m",
+            "llama3.1:8b-instruct-q8_0",
+            "qwen2.5:latest",
+            "mistral-nemo:latest",
+            "llama3.1:latest",
+            "bge-m3:latest",
+            "mistral:v0.3"
+        ]
+    },
+    {
+        "ip_str": "172.232.188.24",
+        "port": 8081,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "Linode",
+        "hostnames": [
+            "172-232-188-24.ip.linodeusercontent.com",
+            "farmgpt.phyfarm.com"
+        ],
+        "models": [
+            "constructionbot:latest",
+            "chatter:latest",
+            "deepseek-r1:7b",
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "95.88.248.215",
+        "port": 11434,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Vodafone Deutschland GmbH",
+        "hostnames": [
+            "ip5f58f8d7.dynamic.kabel-deutschland.de",
+            "berlincichos.synology.me"
+        ],
+        "models": [
+            "smollm2:135m",
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "172.105.13.253",
+        "port": 11434,
+        "location": {
+            "country_name": "Canada",
+            "city_name": "Unknown"
+        },
+        "org": "Linode",
+        "hostnames": [
+            "172-105-13-253.ip.linodeusercontent.com"
+        ],
+        "models": [
+            "llama3:8b-text-q4_K_S",
+            "qwen:latest",
+            "llama3:latest",
+            "mistral:latest"
+        ]
+    },
+    {
+        "ip_str": "139.192.68.125",
+        "port": 4444,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. First Media,Tbk",
+        "hostnames": [],
+        "models": [
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "210.76.194.175",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Computer Network Information Center of Chinese Academy of Sciences (CNIC-CAS)",
+        "hostnames": [],
+        "models": [
+            "smollm2:135m",
+            "qwen2.5:72b",
+            "qwen2.5:32b",
+            "qwen2.5:7b",
+            "qwen2.5:0.5b"
+        ]
+    },
+    {
+        "ip_str": "69.46.24.100",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "HIVELOCITY, Inc.",
+        "hostnames": [
+            "cpcontacts.dis01.dkat.org",
+            "dis01.dkat.org",
+            "autodiscover.dis01.dkat.org",
+            "fbcsocial.com",
+            "cpanel.dis01.dkat.org",
+            "ipv6.dis01.dkat.org",
+            "webdisk.dis01.dkat.org",
+            "whm.dis01.dkat.org",
+            "autoconfig.dis01.dkat.org",
+            "cpcalendars.dis01.dkat.org",
+            "www.dis01.dkat.org",
+            "webmail.dis01.dkat.org",
+            "mail.dis01.dkat.org"
+        ],
+        "models": [
+            "smollm2:135m",
+            "llama3.2:3b",
+            "deepseek-r1:1.5b",
+            "deepseek-r1:8b",
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "104.131.70.49",
+        "port": 80,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "DigitalOcean, LLC",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 4434,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "164.52.210.166",
+        "port": 8089,
+        "location": {
+            "country_name": "India",
+            "city_name": "Unknown"
+        },
+        "org": "E2E Networks Limited",
+        "hostnames": [
+            "e2e-79-166.ssdcloudindia.net",
+            "smartmoo.com"
+        ],
+        "models": [
+            "deepseek-r1:7b",
+            "llama3.2-vision:latest",
+            "huihui_ai/phi4-abliterated:latest",
+            "smollm2:135m",
+            "qwen2.5:0.5b",
+            "llama2:latest",
+            "deepseek-coder-v2:16b",
+            "llama3.2a:latest",
+            "game2:latest",
+            "tarruda/neuraldaredevil-8b-abliterated:fp16",
+            "game:latest",
+            "closex/neuraldaredevil-8b-abliterated:latest"
+        ]
+    },
+    {
+        "ip_str": "175.6.24.245",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET HUNAN PROVINCE NETWORK",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 47422,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 12395,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 47022,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 46622,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "213.199.63.53",
+        "port": 80,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Contabo GmbH",
+        "hostnames": [
+            "smxworld.link",
+            "vmi2401488.contaboserver.net"
+        ],
+        "models": [
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 31337,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "174.119.139.162",
+        "port": 11434,
+        "location": {
+            "country_name": "Canada",
+            "city_name": "Unknown"
+        },
+        "org": "Rogers Communications Canada Inc.",
+        "hostnames": [
+            "pool-174-119-139-162.cpe.net.cable.rogers.com"
+        ],
+        "models": [
+            "deepseek-coder-v2:latest",
+            "deepseek-r1:latest",
+            "llama3.1:8b",
+            "llama3.1:latest",
+            "codellama:latest",
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "8.130.23.228",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Aliyun Computing Co.LTD",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:70b",
+            "deepseek-r1:32b",
+            "nomic-embed-text:latest",
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "202.104.122.93",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Guangdong province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:14b",
+            "deepseek-r1:32b",
+            "deepseek-r1:8b",
+            "deepseek-r1:70b",
+            "nomic-embed-text:latest",
+            "deepseek-r1:7b",
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "38.45.122.148",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "GNET INC.",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:70b"
+        ]
+    },
+    {
+        "ip_str": "88.14.165.202",
+        "port": 7434,
+        "location": {
+            "country_name": "Spain",
+            "city_name": "Unknown"
+        },
+        "org": "Telefonica de Espana SAU",
+        "hostnames": [
+            "202.red-88-14-165.dynamicip.rima-tde.net"
+        ],
+        "models": [
+            "bge-m3:latest",
+            "qwen2.5:7b-1M",
+            "deepseek-r1:8b",
+            "deepseek-r1:70b",
+            "llama33_70B8k:latest",
+            "deepseek-r1:14b",
+            "deepseek-r1_14b_32k:latest",
+            "llama33_70B:latest",
+            "llama33_70B16k:latest",
+            "deepseek-r1_14b_128k:latest",
+            "deepseek-r1_14b_64k:latest",
+            "deepseek-r1_14b_90k:latest",
+            "llama33_70B4k:latest",
+            "qwen2.5-coder:32b"
+        ]
+    },
+    {
+        "ip_str": "47.109.148.231",
+        "port": 8083,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Aliyun Computing Co., LTD",
+        "hostnames": [],
+        "models": [
+            "codegeex4:latest",
+            "glm4:latest",
+            "minicpm-v:latest",
+            "aiden_lu/minicpm-v2.6:Q4_K_M",
+            "llama3.2-vision:latest",
+            "bge-m3:latest",
+            "qwen2.5:7b"
+        ]
+    },
+    {
+        "ip_str": "164.132.244.142",
+        "port": 11434,
+        "location": {
+            "country_name": "France",
+            "city_name": "Unknown"
+        },
+        "org": "OVH SAS",
+        "hostnames": [
+            "vps-ebf27bd4.vps.ovh.net"
+        ],
+        "models": [
+            "smollm2:135m",
+            "qwen2.5:1.5b",
+            "qwen2.5:0.5b",
+            "llama3.1:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 40722,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "185.45.192.44",
+        "port": 11434,
+        "location": {
+            "country_name": "Netherlands",
+            "city_name": "Unknown"
+        },
+        "org": "Host Sailor Ltd",
+        "hostnames": [],
+        "models": [
+            "smollm2:135m",
+            "llama2:latest",
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "8.141.1.213",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Aliyun Computing Co.LTD",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 12223,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "103.24.179.7",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Shenzhen ESIN Technology Co., Ltd",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b",
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "43.136.124.33",
+        "port": 8889,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+        "hostnames": [
+            "blog.urmouky.top"
+        ],
+        "models": [
+            "deepseek-r1:70b-llama-distill-fp16"
+        ]
+    },
+    {
+        "ip_str": "155.4.48.28",
+        "port": 11434,
+        "location": {
+            "country_name": "Sweden",
+            "city_name": "Unknown"
+        },
+        "org": "Bahnhof AB, Sweden",
+        "hostnames": [
+            "h-155-4-48-28.A163.priv.bahnhof.se",
+            "mail.keisala.se"
+        ],
+        "models": [
+            "nomic-embed-text:latest",
+            "llama3.2:latest",
+            "smollm2:135m"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 195,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 9091,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "5.189.145.57",
+        "port": 11434,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Contabo GmbH",
+        "hostnames": [
+            "vmi2439024.contaboserver.net",
+            "ai.digiwtech.com"
+        ],
+        "models": [
+            "deepseek-r1:1.5b",
+            "qwen2:1.5b"
+        ]
+    },
+    {
+        "ip_str": "51.159.138.66",
+        "port": 80,
+        "location": {
+            "country_name": "France",
+            "city_name": "Unknown"
+        },
+        "org": "Scaleway",
+        "hostnames": [
+            "whisper.c98.cloud-pi-native.com",
+            "66-138-159-51.instances.scw.cloud"
+        ],
+        "models": [
+            "llama2:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 18099,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "174.138.79.146",
+        "port": 3001,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "DigitalOcean, LLC",
+        "hostnames": [],
+        "models": [
+            "qwen2.5-coder:32b"
+        ]
+    },
+    {
+        "ip_str": "121.37.47.12",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+        "hostnames": [
+            "hw01.hw2.wzznb.com",
+            "ecs-121-37-47-12.compute.hwclouds-dns.com"
+        ],
+        "models": [
+            "modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 44922,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "35.205.104.177",
+        "port": 50000,
+        "location": {
+            "country_name": "Belgium",
+            "city_name": "Unknown"
+        },
+        "org": "Google LLC",
+        "hostnames": [
+            "sentinel-nvidia-t4.sentinel.branper.com",
+            "177.104.205.35.bc.googleusercontent.com"
+        ],
+        "models": [
+            "llama3.1:latest",
+            "deepseek-r1:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 43722,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "116.202.11.22",
+        "port": 8085,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Hetzner Online GmbH",
+        "hostnames": [
+            "static.22.11.202.116.clients.your-server.de",
+            "fshahy.de"
+        ],
+        "models": [
+            "deepseek-r1:1.5b",
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "38.55.134.107",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "PEG TECH INC",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "175.178.228.34",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "112.26.67.33",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Mobile Communications Corporation",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "20.193.152.49",
+        "port": 80,
+        "location": {
+            "country_name": "India",
+            "city_name": "Unknown"
+        },
+        "org": "Microsoft Corporation",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b",
+            "llama2:latest"
+        ]
+    },
+    {
+        "ip_str": "27.25.149.166",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Hubei province network",
+        "hostnames": [],
+        "models": [
+            "bge-m3:latest",
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "121.237.179.82",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET jiangsu province network",
+        "hostnames": [],
+        "models": [
+            "shaw/dmeta-embedding-zh:latest",
+            "deepseek-32b:latest",
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 62016,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 46722,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "8.218.172.140",
+        "port": 81,
+        "location": {
+            "country_name": "Hong Kong",
+            "city_name": "Unknown"
+        },
+        "org": "Alibaba Cloud (Singapore) Private Limited",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1-A:70b",
+            "deepseek-r1:14b",
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 44336,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 4443,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 8500,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "148.251.177.154",
+        "port": 11434,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Hetzner Online GmbH",
+        "hostnames": [
+            "static.154.177.251.148.clients.your-server.de"
+        ],
+        "models": [
+            "aya-expanse:latest"
+        ]
+    },
+    {
+        "ip_str": "161.35.133.184",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "DigitalOcean, LLC",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:8b"
+        ]
+    },
+    {
+        "ip_str": "149.106.153.185",
+        "port": 11434,
+        "location": {
+            "country_name": "Israel",
+            "city_name": "Unknown"
+        },
+        "org": "Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.",
+        "hostnames": [
+            "www.ssj2rich.com",
+            "ssj2rich.com"
+        ],
+        "models": [
+            "deepseek-r1:32b",
+            "deepseek-r1:8b",
+            "deepseek-r1:14b",
+            "artifish/llama3.2-uncensored:latest",
+            "dagbs/darkidol-llama-3.1-8b-instruct-1.0-uncensored:latest",
+            "qwen2.5-coder:7b",
+            "llava-llama3:latest",
+            "llama3.2-vision:latest"
+        ]
+    },
+    {
+        "ip_str": "223.167.125.174",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINA UNICOM Shanghai city network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:14b"
+        ]
+    },
+    {
+        "ip_str": "116.202.108.7",
+        "port": 11434,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Hetzner Online GmbH",
+        "hostnames": [
+            "mail.holyworld.me"
+        ],
+        "models": [
+            "deepseek-r1:70b"
+        ]
+    },
+    {
+        "ip_str": "110.17.65.234",
+        "port": 8009,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "InnerMongoliabaotou51AB80MH01pppoe309825",
+        "hostnames": [],
+        "models": [
+            "modelscope.cn/TheBloke/deepseek-coder-6.7B-instruct-GGUF:latest",
+            "modelscope.cn/yasserrmd/DeepSeek-R1-Distill-Qwen-1.5B-gguf:F16",
+            "modelscope.cn/bartowski/Qwen2.5-7B-Instruct-1M-GGUF:latest",
+            "modelscope.cn/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF:latest",
+            "modelscope.cn/lmstudio-community/MiniCPM-o-2_6-GGUF:latest",
+            "deepseek-coder:base",
+            "deepseek-r1:1.5b",
+            "modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF:latest",
+            "deepseek-r1:8b"
+        ]
+    },
+    {
+        "ip_str": "42.51.13.150",
+        "port": 6000,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Henan Telcom Union Technology Co., LTD",
+        "hostnames": [
+            "ai.zsxdxw.com"
+        ],
+        "models": [
+            "linux6200/bge-reranker-v2-m3:latest",
+            "qwen2.5:32b",
+            "deepseek-r1:32b",
+            "bge-m3:latest"
+        ]
+    },
+    {
+        "ip_str": "81.70.190.114",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b",
+            "deepseek-r1:1.5b"
+        ]
+    },
+    {
+        "ip_str": "112.47.3.184",
+        "port": 3001,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Mobile Communications Corporation",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:8b",
+            "deepseek-r1:14b",
+            "deepseek-r1:70b"
+        ]
+    },
+    {
+        "ip_str": "89.169.152.117",
+        "port": 11434,
+        "location": {
+            "country_name": "Russian Federation",
+            "city_name": "Unknown"
+        },
+        "org": "Yandex.Cloud LLC",
+        "hostnames": [],
+        "models": [
+            "nomic-embed-text:latest",
+            "llava:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 7434,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 8099,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "207.127.100.218",
+        "port": 11434,
+        "location": {
+            "country_name": "Saudi Arabia",
+            "city_name": "Unknown"
+        },
+        "org": "Oracle Corporation",
+        "hostnames": [],
+        "models": [
+            "llama3.2:latest",
+            "vanilj/Phi-4:latest"
+        ]
+    },
+    {
+        "ip_str": "136.186.108.121",
+        "port": 80,
+        "location": {
+            "country_name": "Australia",
+            "city_name": "Unknown"
+        },
+        "org": "Swinburne University of Technology",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:70b",
+            "astrosage:latest",
+            "llama3.3:70b",
+            "hf.co/MosuXu/train:latest",
+            "hf.co/MosuXu/model:latest",
+            "eramax/nxcode-cq-7b-orpo:q6",
+            "llama3.2:3b",
+            "llama3.2:1b",
+            "rpmax:latest",
+            "llama3.1:70b",
+            "mistral-large:latest",
+            "llama3.1:8b",
+            "llama3-groq-tool-use:latest",
+            "codegeex4:latest",
+            "internlm2:latest",
+            "gemma2:latest",
+            "gemma2:27b",
+            "llama3:8b",
+            "arcee-spark:latest",
+            "deepseek-coder-v2:latest",
+            "llava:latest",
+            "llama3:70b",
+            "codeqwen:latest",
+            "codestral:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 55553,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "218.59.146.163",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Unicom Shandong province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b",
+            "deepseek-r1:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 46922,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "60.187.192.203",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET-ZJ Shaoxing node network",
+        "hostnames": [],
+        "models": [
+            "gpt-4o:latest",
+            "huihui_ai/qwen2.5-1m-abliterated:14b",
+            "huihui_ai/deepseek-r1-abliterated:7b",
+            "llama3.2:3b",
+            "llama3.2:1b",
+            "llama3.2:3b-instruct-q6_K",
+            "llama3.2:1b-instruct-q6_K",
+            "gemma2:2b",
+            "gemma2:2b-instruct-q6_K",
+            "gemma2:2b-text-q6_K",
+            "deepseek-r1:1.5b-qwen-distill-q4_K_M",
+            "deepseek-r1:32b",
+            "deepseek-r1:32b-qwen-distill-q4_K_M",
+            "deepseek-r1:14b",
+            "deepseek-r1:14b-qwen-distill-q4_K_M",
+            "deepseek-r1:7b",
+            "deepseek-r1:7b-qwen-distill-q4_K_M",
+            "deepseek-r1:8b",
+            "deepseek-r1:latest",
+            "deepseek-r1:8b-llama-distill-q4_K_M",
+            "minicpm-v:latest",
+            "minicpm-v:8b-2.6-q4_K_M",
+            "hf.co/openbmb/MiniCPM-o-2_6-gguf:Q4_K_M",
+            "smollm2:135m",
+            "glm4:9b-chat-q6_K",
+            "llama3.1:latest",
+            "llama3.2:latest",
+            "qwen2.5-coder:latest",
+            "gpt-3.5-turbo:latest",
+            "llama3.2-vision:latest",
+            "gpt-4:latest",
+            "gpt-4-turbo:latest",
+            "llama3.2-vision:11b-instruct-q4_K_M",
+            "qwen2.5-coder:7b-instruct-q6_K",
+            "gemma2:9b-instruct-q6_K",
+            "llama3.1:8b-instruct-q6_K",
+            "qwen2.5:latest",
+            "qwen2.5:7b-instruct-q6_K",
+            "gemma2:latest",
+            "text-embedding-ada-002:latest",
+            "mistral-nemo:12b-instruct-2407-q6_K",
+            "trollek/qwen2-diffusion-prompter:v01-q6_K",
+            "mistral:7b-instruct-q6_K",
+            "nomic-embed-text:latest",
+            "glm4:latest",
+            "command-r:latest",
+            "codegeex4:9b-all-q6_K"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 46522,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "137.220.224.63",
+        "port": 11434,
+        "location": {
+            "country_name": "Hong Kong",
+            "city_name": "Unknown"
+        },
+        "org": "CTG Server Ltd.",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:8b"
+        ]
+    },
+    {
+        "ip_str": "49.12.150.69",
+        "port": 80,
+        "location": {
+            "country_name": "Germany",
+            "city_name": "Unknown"
+        },
+        "org": "Hetzner Online GmbH",
+        "hostnames": [
+            "static.69.150.12.49.clients.your-server.de"
+        ],
+        "models": [
+            "huihui_ai/deepseek-r1-abliterated:14b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 8880,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 45722,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "193.141.64.135",
+        "port": 11434,
+        "location": {
+            "country_name": "Iran, Islamic Republic of",
+            "city_name": "Unknown"
+        },
+        "org": "Green Web Samaneh Novin PJSC",
+        "hostnames": [
+            "static.135.64.141.193.clients.irandns.com"
+        ],
+        "models": [
+            "smollm2:135m",
+            "deepseek-r1:7b-qwen-distill-q4_K_M"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 9095,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "114.243.109.180",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Unicom Beijing province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 30023,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 40222,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "150.138.84.18",
+        "port": 3000,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET SHANDONG PROVINCE NETWORK",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:14b"
+        ]
+    },
+    {
+        "ip_str": "31.223.45.130",
+        "port": 5000,
+        "location": {
+            "country_name": "Turkey",
+            "city_name": "Unknown"
+        },
+        "org": "TurkNet-DSL",
+        "hostnames": [
+            "130.45.223.31.srv.turk.net"
+        ],
+        "models": [
+            "deepseek-r1:32b",
+            "deepseek-r1:1.5b",
+            "deepseek-r1:14b",
+            "deepseek-r1:8b",
+            "llama3.1:latest",
+            "llama3.2:latest",
+            "llama3.2-vision:latest",
+            "llama3.3:latest"
+        ]
+    },
+    {
+        "ip_str": "36.112.150.185",
+        "port": 9002,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Beijing province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b",
+            "deepseek-r1-70b:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 8834,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 8443,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "134.175.236.248",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 9117,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "120.234.203.179",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Mobile Communications Corporation",
+        "hostnames": [],
+        "models": [
+            "nomic-embed-text:latest",
+            "deepseek-r1:32b",
+            "deepseek-r1:14b"
+        ]
+    },
+    {
+        "ip_str": "39.185.80.93",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Mobile Communications Corporation",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:1.5b",
+            "deepseek-r1:latest"
+        ]
+    },
+    {
+        "ip_str": "186.116.133.213",
+        "port": 11434,
+        "location": {
+            "country_name": "Colombia",
+            "city_name": "Unknown"
+        },
+        "org": "CHARRY.TRIVING1",
+        "hostnames": [
+            "hotmentor.tech",
+            "www.hotmentor.tech"
+        ],
+        "models": [
+            "mistral:latest",
+            "llama3.2:latest",
+            "smollm2:135m",
+            "hotmentor10:latest",
+            "hotmentor9:latest",
+            "hotmentor8:latest",
+            "hotmentor7:latest",
+            "hotmentor6:latest",
+            "resumen:latest",
+            "trafic:latest",
+            "hotmentor5:latest",
+            "hotmentor4:latest",
+            "openhermes2.5-mistral:latest",
+            "hotmentor3:latest",
+            "hotmentor2:latest",
+            "hotmentor1:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 49122,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    },
+    {
+        "ip_str": "192.159.192.206",
+        "port": 6000,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "Pioneer Long Distance Inc.",
+        "hostnames": [
+            "192-159-192-206.pldi.net"
+        ],
+        "models": [
+            "deepseek-r1:14b",
+            "marco-o1:latest",
+            "granite3-moe:3b",
+            "hf.co/matteogeniaccio/phi-4:Q4_K_M",
+            "smollm2:latest",
+            "smollm2:135m",
+            "phi3.5:latest",
+            "qwen2.5:14b",
+            "mixtral:latest",
+            "llama3.1:8b",
+            "qwen2.5-coder:latest",
+            "gemma2:latest"
+        ]
+    },
+    {
+        "ip_str": "146.56.186.225",
+        "port": 11434,
+        "location": {
+            "country_name": "Korea, Republic of",
+            "city_name": "Unknown"
+        },
+        "org": "Oracle Corporation , Global software solutions , California , USA",
+        "hostnames": [],
+        "models": [
+            "smollm2:135m",
+            "qwen:0.5b",
+            "mistral-nemo:latest",
+            "gemma2:9b"
+        ]
+    },
+    {
+        "ip_str": "141.157.41.82",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "Verizon Business",
+        "hostnames": [
+            "pool-141-157-41-82.bltmmd.fios.verizon.net"
+        ],
+        "models": [
+            "smollm2:135m",
+            "hf.co/mradermacher/Mistral-MOE-4X7B-Dark-MultiVerse-Uncensored-Enhanced32-24B-gguf:latest",
+            "hf.co/DavidAU/Mistral-MOE-4X7B-Dark-MultiVerse-Uncensored-Enhanced32-24B-gguf:latest",
+            "hf.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF:IQ4_XS",
+            "llama3.2-vision:latest",
+            "wizard-vicuna-uncensored:latest",
+            "jimscard/adult-film-screenwriter-nsfw:latest"
+        ]
+    },
+    {
+        "ip_str": "39.98.113.97",
+        "port": 3306,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "Aliyun Computing Co., LTD",
+        "hostnames": [],
+        "models": [
+            "qwen2.5:1.5b",
+            "qwen2.5-coder:32b"
+        ]
+    },
+    {
+        "ip_str": "69.46.24.104",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "HIVELOCITY, Inc.",
+        "hostnames": [
+            "cpcontacts.dis01.dkat.org",
+            "floridabiblecollege.us",
+            "dis01.dkat.org",
+            "autodiscover.dis01.dkat.org",
+            "cpanel.dis01.dkat.org",
+            "ipv6.dis01.dkat.org",
+            "webdisk.dis01.dkat.org",
+            "whm.dis01.dkat.org",
+            "autoconfig.dis01.dkat.org",
+            "cpcalendars.dis01.dkat.org",
+            "www.dis01.dkat.org",
+            "webmail.dis01.dkat.org",
+            "mail.dis01.dkat.org"
+        ],
+        "models": [
+            "smollm2:135m",
+            "llama3.2:3b",
+            "deepseek-r1:1.5b",
+            "deepseek-r1:8b",
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "45.61.170.183",
+        "port": 11434,
+        "location": {
+            "country_name": "United States",
+            "city_name": "Unknown"
+        },
+        "org": "Atomic Networks LLC",
+        "hostnames": [
+            "powered-by.atomicnetworks.co"
+        ],
+        "models": [
+            "qwen:1.8b",
+            "llama2-uncensored:latest",
+            "deepseek-r1:14b",
+            "llama3.2:latest",
+            "gemma:7b",
+            "mistral:latest"
+        ]
+    },
+    {
+        "ip_str": "103.66.239.246",
+        "port": 11434,
+        "location": {
+            "country_name": "Lao People's Democratic Republic",
+            "city_name": "Unknown"
+        },
+        "org": "AP Network Communication & Technology Sole CO.,LTD",
+        "hostnames": [],
+        "models": [
+            "llama3.2-vision:latest",
+            "x/llama3.2-vision:11b",
+            "llava:13b",
+            "x/llama3.2-vision:latest",
+            "gemma2:27b",
+            "gemma2:9b",
+            "llama3.1:latest",
+            "mxbai-embed-large:latest",
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "221.223.24.117",
+        "port": 50000,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "China Unicom Beijing province network",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:32b",
+            "qwen2.5:32b",
+            "llama3.1:latest",
+            "qwen2:7b",
+            "qwen2:72b",
+            "llama3:70b",
+            "yi:34b",
+            "baichuan2-13b-6q:latest",
+            "baichuan2-13b:latest",
+            "qwen:14b"
+        ]
+    },
+    {
+        "ip_str": "183.47.59.84",
+        "port": 11434,
+        "location": {
+            "country_name": "China",
+            "city_name": "Unknown"
+        },
+        "org": "CHINANET Guangdong province network",
+        "hostnames": [],
+        "models": [
+            "smollm2:135m",
+            "LocalBuild-Finance-RAG:latest",
+            "hf-mirror.com/QuantFactory/Llama-3-8B-Instruct-Finance-RAG-GGUF:Q8_0",
+            "deepseek-r1:70b",
+            "llama3.3:latest",
+            "deepseek-r1:32b"
+        ]
+    },
+    {
+        "ip_str": "115.126.101.150",
+        "port": 1000,
+        "location": {
+            "country_name": "Hong Kong",
+            "city_name": "Unknown"
+        },
+        "org": "Forewin Telecom Group Limited, ISP at HK",
+        "hostnames": [],
+        "models": [
+            "deepseek-r1:7b"
+        ]
+    },
+    {
+        "ip_str": "202.157.82.28",
+        "port": 3000,
+        "location": {
+            "country_name": "India",
+            "city_name": "Unknown"
+        },
+        "org": "DATA INGENIOUS GLOBAL LIMITED",
+        "hostnames": [],
+        "models": [
+            "llama3.2:latest"
+        ]
+    },
+    {
+        "ip_str": "158.140.176.219",
+        "port": 45422,
+        "location": {
+            "country_name": "Indonesia",
+            "city_name": "Unknown"
+        },
+        "org": "PT. Eka Mas Republik",
+        "hostnames": [
+            "registry.sebuah.id",
+            "host-158.140.176-219.myrepublic.co.id",
+            "nuc.sebuah.id"
+        ],
+        "models": [
+            "llama3.2:latest",
+            "deepseek-r1:1.5b",
+            "phi:2.7b",
+            "nomic-embed-text:latest",
+            "mxbai-embed-large:latest",
+            "mistral:latest",
+            "llama3.2:3b",
+            "llama3.2-vision:11b",
+            "granite-embedding:latest",
+            "granite-embedding:278m",
+            "granite3.1-dense:8b"
+        ]
+    }
+]
